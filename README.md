@@ -11,8 +11,7 @@ Each task documents the scenario, the tools and method used, the findings, and t
 | 01 | [Network traffic analysis in Splunk](./task-01-network-traffic-analysis-in-splunk/) | SIEM log triage, blocked-traffic analysis | Splunk |
 | 02 | [Phishing email analysis with oledump](./task-02-phishing-email-analysis-with-oledump/) | Email forensics, malicious-document analysis | oledump, olefile |
 | 03 | [Malware traffic analysis in Wireshark](./task-03-malware-traffic-analysis-in-wireshark/) | Infostealer C2 traffic, IOC extraction | Wireshark |
-
-_More tasks from this program are being added._
+| 04 | [Email security policy and awareness plan](./task-04-email-security-policy-and-awareness-plan/) | Security policy writing, awareness campaign design | NCA ECC, PDPL |
 
 ---
 
