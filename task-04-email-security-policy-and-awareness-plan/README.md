@@ -145,4 +145,4 @@ Why this design: the campaign moves from **inform** (emails, posters) to **pract
 - National Cybersecurity Authority. *Email Security Policy template.* [nca.gov.sa](https://cdn.nca.gov.sa/api/files/public/upload/d5c56ebf-6d5d-493f-90f45fc854ec28b8_POLICY_Email_Security_template_en-.pdf)
 - Palo Alto Networks. *What is an IT security policy?* [paloaltonetworks.com](https://www.paloaltonetworks.com/cyberpedia/what-is-an-it-security-policy)
 - TechTarget. *What an email security policy is and how to build one.* [techtarget.com](https://www.techtarget.com/cybersecurity/tip/What-an-email-security-policy-is-and-how-to-build-one)
-- stc & Misk Skills. *Security policies* (supporting source 1, training material).
+- stc & Misk Skills. *Security Policies.* Training material provided to participants inside the stc × Misk Virtual Work Experience program, explaining what a security policy is and the sections it should contain. It is not publicly available.
