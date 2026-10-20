@@ -1,6 +1,6 @@
 # Task 01 · Network traffic analysis in Splunk
 
-**Program:** stc × Misk Virtual Work Experience — Cybersecurity Incident Response &nbsp;·&nbsp; **Tools:** Splunk, Blue Coat proxy logs
+**Program:** stc × Misk Virtual Work Experience: Cybersecurity Incident Response &nbsp;·&nbsp; **Tools:** Splunk, Blue Coat proxy logs
 
 ## Task
 

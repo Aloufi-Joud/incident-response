@@ -1,6 +1,6 @@
 # Task 02 · Phishing email analysis with oledump
 
-**Program:** stc × Misk Virtual Work Experience — Cybersecurity Incident Response &nbsp;·&nbsp; **Tools:** oledump.py, olefile, Python
+**Program:** stc × Misk Virtual Work Experience: Cybersecurity Incident Response &nbsp;·&nbsp; **Tools:** oledump.py, olefile, Python
 
 ## Task
 
